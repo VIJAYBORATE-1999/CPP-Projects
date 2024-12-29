@@ -1,0 +1,4 @@
+/mnt/c/Users/vijay.borate/VijayWorkspace(W)/Assignments FFFFFFFF/Assignment_6/build/CMakeFiles/sender.dir
+/mnt/c/Users/vijay.borate/VijayWorkspace(W)/Assignments FFFFFFFF/Assignment_6/build/CMakeFiles/receiver.dir
+/mnt/c/Users/vijay.borate/VijayWorkspace(W)/Assignments FFFFFFFF/Assignment_6/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/vijay.borate/VijayWorkspace(W)/Assignments FFFFFFFF/Assignment_6/build/CMakeFiles/rebuild_cache.dir

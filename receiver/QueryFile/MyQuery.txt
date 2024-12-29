@@ -1,0 +1,33 @@
+# AND query
+ID 1111
+ismobile 2583181813
+isIP 113.78.209.106
+
+# AND query
+ID 1000
+ismobile 2415302328
+isIP 117.47.143.10
+
+# OR query
+ID 2222
+ismobile 2583181813 , isIP 189.44.19.205
+
+# OR query
+ID 3333
+ismobile 00000000 , isIP 180.202.244.204
+
+
+# Both AND and OR query
+ID 9999
+ismobile 1855705003
+isIP 149.88.168.15 , isTTY 9
+
+# Both AND and OR query
+ID 8888
+ismobile 2080651684
+isIP 165.183.229.76 , isTTY 11
+
+# Both AND and OR query
+ID 8000
+ismobile 2080651684
+isIP 165.183.229.70 , isTTY 11
